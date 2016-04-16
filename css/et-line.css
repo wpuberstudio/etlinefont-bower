@@ -29,7 +29,7 @@ Instead of a list of all class selectors,
 you can use the generic selector below, but it's slower:
 [class*="icon-"] {
 */
-.icon-mobile, .icon-laptop, .icon-desktop, .icon-tablet, .icon-phone, .icon-document, .icon-documents, .icon-search, .icon-clipboard, .icon-newspaper, .icon-notebook, .icon-book-open, .icon-browser, .icon-calendar, .icon-presentation, .icon-picture, .icon-pictures, .icon-video, .icon-camera, .icon-printer, .icon-toolbox, .icon-briefcase, .icon-wallet, .icon-gift, .icon-bargraph, .icon-grid, .icon-expand, .icon-focus, .icon-edit, .icon-adjustments, .icon-ribbon, .icon-hourglass, .icon-lock, .icon-megaphone, .icon-shield, .icon-trophy, .icon-flag, .icon-map, .icon-puzzle, .icon-basket, .icon-envelope, .icon-streetsign, .icon-telescope, .icon-gears, .icon-key, .icon-paperclip, .icon-attachment, .icon-pricetags, .icon-lightbulb, .icon-layers, .icon-pencil, .icon-tools, .icon-tools-2, .icon-scissors, .icon-paintbrush, .icon-magnifying-glass, .icon-circle-compass, .icon-linegraph, .icon-mic, .icon-strategy, .icon-beaker, .icon-caution, .icon-recycle, .icon-anchor, .icon-profile-male, .icon-profile-female, .icon-bike, .icon-wine, .icon-hotairballoon, .icon-globe, .icon-genius, .icon-map-pin, .icon-dial, .icon-chat, .icon-heart, .icon-cloud, .icon-upload, .icon-download, .icon-target, .icon-hazardous, .icon-piechart, .icon-speedometer, .icon-global, .icon-compass, .icon-lifesaver, .icon-clock, .icon-aperture, .icon-quote, .icon-scope, .icon-alarmclock, .icon-refresh, .icon-happy, .icon-sad, .icon-facebook, .icon-twitter, .icon-googleplus, .icon-rss, .icon-tumblr, .icon-linkedin, .icon-dribbble {
+.etline-mobile, .etline-laptop, .etline-desktop, .etline-tablet, .etline-phone, .etline-document, .etline-documents, .etline-search, .etline-clipboard, .etline-newspaper, .etline-notebook, .etline-book-open, .etline-browser, .etline-calendar, .etline-presentation, .etline-picture, .etline-pictures, .etline-video, .etline-camera, .etline-printer, .etline-toolbox, .etline-briefcase, .etline-wallet, .etline-gift, .etline-bargraph, .etline-grid, .etline-expand, .etline-focus, .etline-edit, .etline-adjustments, .etline-ribbon, .etline-hourglass, .etline-lock, .etline-megaphone, .etline-shield, .etline-trophy, .etline-flag, .etline-map, .etline-puzzle, .etline-basket, .etline-envelope, .etline-streetsign, .etline-telescope, .etline-gears, .etline-key, .etline-paperclip, .etline-attachment, .etline-pricetags, .etline-lightbulb, .etline-layers, .etline-pencil, .etline-tools, .etline-tools-2, .etline-scissors, .etline-paintbrush, .etline-magnifying-glass, .etline-circle-compass, .etline-linegraph, .etline-mic, .etline-strategy, .etline-beaker, .etline-caution, .etline-recycle, .etline-anchor, .etline-profile-male, .etline-profile-female, .etline-bike, .etline-wine, .etline-hotairballoon, .etline-globe, .etline-genius, .etline-map-pin, .etline-dial, .etline-chat, .etline-heart, .etline-cloud, .etline-upload, .etline-download, .etline-target, .etline-hazardous, .etline-piechart, .etline-speedometer, .etline-global, .etline-compass, .etline-lifesaver, .etline-clock, .etline-aperture, .etline-quote, .etline-scope, .etline-alarmclock, .etline-refresh, .etline-happy, .etline-sad, .etline-facebook, .etline-twitter, .etline-googleplus, .etline-rss, .etline-tumblr, .etline-linkedin, .etline-dribbble {
 	font-family: 'et-line';
 	speak: none;
 	font-style: normal;
@@ -41,303 +41,303 @@ you can use the generic selector below, but it's slower:
 	-moz-osx-font-smoothing: grayscale;
 	display:inline-block;
 }
-.icon-mobile:before {
+.etline-mobile:before {
 	content: "\e000";
 }
-.icon-laptop:before {
+.etline-laptop:before {
 	content: "\e001";
 }
-.icon-desktop:before {
+.etline-desktop:before {
 	content: "\e002";
 }
-.icon-tablet:before {
+.etline-tablet:before {
 	content: "\e003";
 }
-.icon-phone:before {
+.etline-phone:before {
 	content: "\e004";
 }
-.icon-document:before {
+.etline-document:before {
 	content: "\e005";
 }
-.icon-documents:before {
+.etline-documents:before {
 	content: "\e006";
 }
-.icon-search:before {
+.etline-search:before {
 	content: "\e007";
 }
-.icon-clipboard:before {
+.etline-clipboard:before {
 	content: "\e008";
 }
-.icon-newspaper:before {
+.etline-newspaper:before {
 	content: "\e009";
 }
-.icon-notebook:before {
+.etline-notebook:before {
 	content: "\e00a";
 }
-.icon-book-open:before {
+.etline-book-open:before {
 	content: "\e00b";
 }
-.icon-browser:before {
+.etline-browser:before {
 	content: "\e00c";
 }
-.icon-calendar:before {
+.etline-calendar:before {
 	content: "\e00d";
 }
-.icon-presentation:before {
+.etline-presentation:before {
 	content: "\e00e";
 }
-.icon-picture:before {
+.etline-picture:before {
 	content: "\e00f";
 }
-.icon-pictures:before {
+.etline-pictures:before {
 	content: "\e010";
 }
-.icon-video:before {
+.etline-video:before {
 	content: "\e011";
 }
-.icon-camera:before {
+.etline-camera:before {
 	content: "\e012";
 }
-.icon-printer:before {
+.etline-printer:before {
 	content: "\e013";
 }
-.icon-toolbox:before {
+.etline-toolbox:before {
 	content: "\e014";
 }
-.icon-briefcase:before {
+.etline-briefcase:before {
 	content: "\e015";
 }
-.icon-wallet:before {
+.etline-wallet:before {
 	content: "\e016";
 }
-.icon-gift:before {
+.etline-gift:before {
 	content: "\e017";
 }
-.icon-bargraph:before {
+.etline-bargraph:before {
 	content: "\e018";
 }
-.icon-grid:before {
+.etline-grid:before {
 	content: "\e019";
 }
-.icon-expand:before {
+.etline-expand:before {
 	content: "\e01a";
 }
-.icon-focus:before {
+.etline-focus:before {
 	content: "\e01b";
 }
-.icon-edit:before {
+.etline-edit:before {
 	content: "\e01c";
 }
-.icon-adjustments:before {
+.etline-adjustments:before {
 	content: "\e01d";
 }
-.icon-ribbon:before {
+.etline-ribbon:before {
 	content: "\e01e";
 }
-.icon-hourglass:before {
+.etline-hourglass:before {
 	content: "\e01f";
 }
-.icon-lock:before {
+.etline-lock:before {
 	content: "\e020";
 }
-.icon-megaphone:before {
+.etline-megaphone:before {
 	content: "\e021";
 }
-.icon-shield:before {
+.etline-shield:before {
 	content: "\e022";
 }
-.icon-trophy:before {
+.etline-trophy:before {
 	content: "\e023";
 }
-.icon-flag:before {
+.etline-flag:before {
 	content: "\e024";
 }
-.icon-map:before {
+.etline-map:before {
 	content: "\e025";
 }
-.icon-puzzle:before {
+.etline-puzzle:before {
 	content: "\e026";
 }
-.icon-basket:before {
+.etline-basket:before {
 	content: "\e027";
 }
-.icon-envelope:before {
+.etline-envelope:before {
 	content: "\e028";
 }
-.icon-streetsign:before {
+.etline-streetsign:before {
 	content: "\e029";
 }
-.icon-telescope:before {
+.etline-telescope:before {
 	content: "\e02a";
 }
-.icon-gears:before {
+.etline-gears:before {
 	content: "\e02b";
 }
-.icon-key:before {
+.etline-key:before {
 	content: "\e02c";
 }
-.icon-paperclip:before {
+.etline-paperclip:before {
 	content: "\e02d";
 }
-.icon-attachment:before {
+.etline-attachment:before {
 	content: "\e02e";
 }
-.icon-pricetags:before {
+.etline-pricetags:before {
 	content: "\e02f";
 }
-.icon-lightbulb:before {
+.etline-lightbulb:before {
 	content: "\e030";
 }
-.icon-layers:before {
+.etline-layers:before {
 	content: "\e031";
 }
-.icon-pencil:before {
+.etline-pencil:before {
 	content: "\e032";
 }
-.icon-tools:before {
+.etline-tools:before {
 	content: "\e033";
 }
-.icon-tools-2:before {
+.etline-tools-2:before {
 	content: "\e034";
 }
-.icon-scissors:before {
+.etline-scissors:before {
 	content: "\e035";
 }
-.icon-paintbrush:before {
+.etline-paintbrush:before {
 	content: "\e036";
 }
-.icon-magnifying-glass:before {
+.etline-magnifying-glass:before {
 	content: "\e037";
 }
-.icon-circle-compass:before {
+.etline-circle-compass:before {
 	content: "\e038";
 }
-.icon-linegraph:before {
+.etline-linegraph:before {
 	content: "\e039";
 }
-.icon-mic:before {
+.etline-mic:before {
 	content: "\e03a";
 }
-.icon-strategy:before {
+.etline-strategy:before {
 	content: "\e03b";
 }
-.icon-beaker:before {
+.etline-beaker:before {
 	content: "\e03c";
 }
-.icon-caution:before {
+.etline-caution:before {
 	content: "\e03d";
 }
-.icon-recycle:before {
+.etline-recycle:before {
 	content: "\e03e";
 }
-.icon-anchor:before {
+.etline-anchor:before {
 	content: "\e03f";
 }
-.icon-profile-male:before {
+.etline-profile-male:before {
 	content: "\e040";
 }
-.icon-profile-female:before {
+.etline-profile-female:before {
 	content: "\e041";
 }
-.icon-bike:before {
+.etline-bike:before {
 	content: "\e042";
 }
-.icon-wine:before {
+.etline-wine:before {
 	content: "\e043";
 }
-.icon-hotairballoon:before {
+.etline-hotairballoon:before {
 	content: "\e044";
 }
-.icon-globe:before {
+.etline-globe:before {
 	content: "\e045";
 }
-.icon-genius:before {
+.etline-genius:before {
 	content: "\e046";
 }
-.icon-map-pin:before {
+.etline-map-pin:before {
 	content: "\e047";
 }
-.icon-dial:before {
+.etline-dial:before {
 	content: "\e048";
 }
-.icon-chat:before {
+.etline-chat:before {
 	content: "\e049";
 }
-.icon-heart:before {
+.etline-heart:before {
 	content: "\e04a";
 }
-.icon-cloud:before {
+.etline-cloud:before {
 	content: "\e04b";
 }
-.icon-upload:before {
+.etline-upload:before {
 	content: "\e04c";
 }
-.icon-download:before {
+.etline-download:before {
 	content: "\e04d";
 }
-.icon-target:before {
+.etline-target:before {
 	content: "\e04e";
 }
-.icon-hazardous:before {
+.etline-hazardous:before {
 	content: "\e04f";
 }
-.icon-piechart:before {
+.etline-piechart:before {
 	content: "\e050";
 }
-.icon-speedometer:before {
+.etline-speedometer:before {
 	content: "\e051";
 }
-.icon-global:before {
+.etline-global:before {
 	content: "\e052";
 }
-.icon-compass:before {
+.etline-compass:before {
 	content: "\e053";
 }
-.icon-lifesaver:before {
+.etline-lifesaver:before {
 	content: "\e054";
 }
-.icon-clock:before {
+.etline-clock:before {
 	content: "\e055";
 }
-.icon-aperture:before {
+.etline-aperture:before {
 	content: "\e056";
 }
-.icon-quote:before {
+.etline-quote:before {
 	content: "\e057";
 }
-.icon-scope:before {
+.etline-scope:before {
 	content: "\e058";
 }
-.icon-alarmclock:before {
+.etline-alarmclock:before {
 	content: "\e059";
 }
-.icon-refresh:before {
+.etline-refresh:before {
 	content: "\e05a";
 }
-.icon-happy:before {
+.etline-happy:before {
 	content: "\e05b";
 }
-.icon-sad:before {
+.etline-sad:before {
 	content: "\e05c";
 }
-.icon-facebook:before {
+.etline-facebook:before {
 	content: "\e05d";
 }
-.icon-twitter:before {
+.etline-twitter:before {
 	content: "\e05e";
 }
-.icon-googleplus:before {
+.etline-googleplus:before {
 	content: "\e05f";
 }
-.icon-rss:before {
+.etline-rss:before {
 	content: "\e060";
 }
-.icon-tumblr:before {
+.etline-tumblr:before {
 	content: "\e061";
 }
-.icon-linkedin:before {
+.etline-linkedin:before {
 	content: "\e062";
 }
-.icon-dribbble:before {
+.etline-dribbble:before {
 	content: "\e063";
 }
